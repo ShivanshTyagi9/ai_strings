@@ -10,6 +10,3 @@ wheels/
 .venv
 
 test.py
-agent/
-llms/
-memory/
